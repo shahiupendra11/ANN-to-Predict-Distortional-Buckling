@@ -21,7 +21,7 @@ Kd — Elastic distortional buckling load
 
 The model helps engineers quickly estimate buckling loads without needing detailed finite element analysis.
 
-Project Workflow
+# Project Workflow
 Load Dataset
 
 Dataset is read from an Excel file (test.xlsx).
@@ -36,7 +36,7 @@ Split dataset into training and testing sets.
 
 Model Definition
 
-Neural network architecture:
+# Neural network architecture:
 
 1 hidden layer
 
